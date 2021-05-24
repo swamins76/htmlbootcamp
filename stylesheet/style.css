@@ -1,0 +1,22 @@
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:forestgreen;
+
+
+    }
+    
+    #heading{
+        text-align: center;
+        font:400 ;
+        font-style: italic;
+        font-weight: normal;
+        color: royalblue;
+        
+    }
+    #bio{
+        text-align:justify;
+        font:400 ;
+        font-style: italic;
+        font-weight: normal;
+        color:seagreen;
